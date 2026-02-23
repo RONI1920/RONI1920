@@ -20,5 +20,5 @@ Seorang ayah yang sedang semangat-semangatnya belajar *coding* dan membangun kar
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github.com/RONI1920" alt="Ronnie's GitHub Stats" />
+  <img src="https://github.com/RONI1920&show_icons=true&theme=radical" alt="Ronnie's GitHub Stats" />
 </p>
