@@ -9,9 +9,6 @@
 <p align="center">Passionate Full-Stack Developer with a strong focus on modern web technologies. As an Information Systems student, I bridge the gap between theory and practical development using PHP, Laravel, and Python. I am a highly motivated builder who loves turning complex challenges into user-friendly solutions, all while sharing my coding journey openly to empower the tech community.</p>
 
 <p align="center">
-  <a href="URL_TIKTOK_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
   <a href="URL_LINKEDIN_KAMU" target="_blank">
     <img src="https://img-shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
