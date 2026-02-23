@@ -35,9 +35,9 @@
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RONI1920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Ronnie's Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RONI1920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&hide_rank=true" alt="Ronnie's Stats" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RONI1920&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Langs" width="48%" />
-</p>
+</p>>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
