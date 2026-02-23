@@ -9,7 +9,9 @@
 <p align="center">Passionate Full-Stack Developer with a strong focus on modern web technologies. As an Information Systems student, I bridge the gap between theory and practical development using PHP, Laravel, and Python. I am a highly motivated builder who loves turning complex challenges into user-friendly solutions, all while sharing my coding journey openly to empower the tech community.</p>
 
 <p align="center">
-  <a href="URL_LINKEDIN_KAMU" target="_blank">
+  <a href="www.linkedin.com/in/roni-hidayat0692
+
+" target="_blank">
     <img src="https://img-shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -17,11 +19,17 @@
 <br>
 
 ### 💻 Tech Stack & Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,html,css,js,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,html,css,js,postgres,mysql,postman,docker,git,github,vscode" />
   </a>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+</p>
+<br>
 
 <br>
 
